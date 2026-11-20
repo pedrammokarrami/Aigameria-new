@@ -1,0 +1,6 @@
+{
+  "name": "AIGAMERIA",
+  "description": "AI-powered cross-game identity, 3D spatial conquest, 10-second tactical micro-games, and AI-human high court gaming ecosystem.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
